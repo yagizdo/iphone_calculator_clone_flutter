@@ -3,11 +3,11 @@
 I made a simple iPhone calculator clone with Flutter.
 
 ## Screenshots
-- <img align="center" width="700" height="400" src="screenshots/ss1.png">
+- <img align="center" width="400" height="700" src="screenshots/ss1.png">
 
-- <img align="center" width="700" height="400" src="screenshots/ss2.png">
+- <img align="center" width="400" height="700" src="screenshots/ss2.png">
 
-- <img align="center" width="700" height="400" src="screenshots/ss3.png">
+- <img align="center" width="400" height="700" src="screenshots/ss3.png">
 
 
 ## Contributing
