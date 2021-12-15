@@ -138,11 +138,9 @@ class _MyHomePageState extends State<MyHomePage> {
         showText = result;
       });
     } else {
-      print('Showtext : $showText + $result');
-      // this code not working
-      if (result == ('error') || showText == 'error') {
-        result = '';
+      if (result == 'error') {
         setState(() {
+          showText = '';
           result = int.parse(showText + btnText).toString();
         });
       } else {
