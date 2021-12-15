@@ -3,8 +3,8 @@
 I made a simple iPhone calculator clone with Flutter.
 
 ##  What will be add :question:
-- [x] . Button
-- [x] Multiple transactions
+- [] . Button
+- [] Multiple transactions
 
 ## Screenshots
 - <img align="center" width="400" height="700" src="screenshots/ss1.png">
